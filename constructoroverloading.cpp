@@ -8,5 +8,8 @@ class mahasiswa{
     string nama;
     public:
     mahasiswa();
-    mahasiswa(s)
+    mahasiswa(int);
+    mahasiswa(string);
+    mahasiswa(int 1Nim,string 1Nama);
+    
 }
