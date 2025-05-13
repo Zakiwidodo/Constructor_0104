@@ -10,11 +10,11 @@ class mahasiswa{
     mahasiswa();
     mahasiswa(int);
     mahasiswa(string);
-    mahasiswa(int 1Nim,string 1Nama);
+    mahasiswa(int iNim,string iNama);
     void cetak();
 
 };
 
-mahasiswa::mahasiswa(){
-    
+mahasiswa::mahasiswa(int iNim){
+    nim = iNim;
 }
