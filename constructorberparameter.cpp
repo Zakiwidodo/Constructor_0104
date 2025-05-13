@@ -7,3 +7,6 @@ class mahasiswa{
         mahasiswa(int nim, string nama); 
 };
 
+mahasiswa: :mahasiswa(int nim, string nama){
+    
+}
