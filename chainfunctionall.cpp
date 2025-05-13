@@ -5,5 +5,11 @@ class buku{
     string judul;
 
     public :
-    buku
+    buku setJudul(string judul){
+        this -> judul = judul;
+        return*this;
+    }
+    string getJudul(){
+        
+    }
 }
