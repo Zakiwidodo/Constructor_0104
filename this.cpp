@@ -11,5 +11,6 @@ class buku{
 };
 
 int main(){
-    
+    buku bukunya;
+    cout << bukunya.setgpt("Matematika");
 }
