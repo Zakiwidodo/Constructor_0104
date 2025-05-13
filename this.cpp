@@ -2,4 +2,14 @@
 using namespace std;
 class buku{
     string judul;
-} ;
+
+    public:
+        string setgpt(string jdl) {
+            this ->judul = jdl;
+            return this -> judul;
+        }
+};
+
+int main(){
+    
+}
