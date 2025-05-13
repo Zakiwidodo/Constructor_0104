@@ -11,5 +11,10 @@ class mahasiswa{
     mahasiswa(int);
     mahasiswa(string);
     mahasiswa(int 1Nim,string 1Nama);
+    void cetak();
+
+};
+
+mahasiswa::mahasiswa(){
     
 }
