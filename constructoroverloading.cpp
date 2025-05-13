@@ -7,4 +7,6 @@ class mahasiswa{
     int nim;
     string nama;
     public:
+    mahasiswa();
+    mahasiswa(s)
 }
